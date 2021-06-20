@@ -1,0 +1,31 @@
+*
+{
+    box-sizing: border-box;
+}
+body 
+{
+    background-color: rgb(193, 137, 245);
+}
+small.form-texttext-muted
+{
+    font-size: 17px;
+}
+label.title, label.desc
+{
+    font-size: 25px;
+}
+button.dlt,button.btn
+{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.952);
+}
+th.th1
+{
+    font-size: 20px;
+}
+.f1
+{
+    margin-left: 1%;
+    margin-bottom: 0.2%;
+    font-size: 16px;
+}
